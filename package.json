@@ -1,0 +1,23 @@
+{
+  "name": "node-patterns",
+  "version": "0.1.0",
+  "author": "Mark Lozano",
+  "description": "a repository for node.js reference patterns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niftymonkey/node-patterns.git"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "superagent": "~0.17.0",
+    "expect.js": "~0.3.1"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoskin": "~1.4.1",
+    "body-parser": "~1.0.2"
+  }
+}
